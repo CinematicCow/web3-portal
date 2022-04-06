@@ -1,0 +1,10 @@
+{
+  "name": "web3-portal",
+  "version": "1.0.0",
+  "description": "This is a project to understand hardhat and smart contracts",
+  "main": "index.js",
+  "repository": "https://github.com/CinematicCow/web3-portal.git",
+  "author": "CinematicCow",
+  "license": "MIT",
+  "private": true
+}
